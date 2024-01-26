@@ -6,8 +6,8 @@
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "scripts": {
-    "build": "tsup src/index.ts format esm,cjs --dts",
-    "dev": "tsup src/index.ts format esm,cjs --dts --watch",
+    "build": "tsup src/index.ts --format esm,cjs --dts",
+    "dev": "tsup src/index.ts --format esm,cjs --dts --watch",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint src/**/*.ts* --fix"
   },
