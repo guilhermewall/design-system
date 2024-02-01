@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@dev-gwp-ui/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,8 +13,8 @@
     "deploy-storybook": "storybook-to-ghpages"
   },
   "dependencies": {
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
+    "@dev-gwp-ui/react": "*",
+    "@dev-gwp-ui/tokens": "*",
     "@storybook/addon-a11y": "^7.6.10",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",

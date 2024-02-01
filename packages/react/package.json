@@ -1,6 +1,6 @@
 {
-  "name": "@ignite-ui/react",
-  "version": "1.0.0",
+  "name": "@dev-gwp-ui/react",
+  "version": "3.0.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -15,8 +15,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@dev-gwp-ui/tokens": "*",
+    "@dev-gwp-ui/ts-config": "*",
     "@types/react": "^18.2.48",
     "@types/react-dom": "^18.2.18",
     "react": "^18.2.0",
